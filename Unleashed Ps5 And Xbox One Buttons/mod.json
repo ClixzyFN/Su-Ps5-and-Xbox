@@ -1,0 +1,35 @@
+{
+  "Groups": [
+    {
+      "Name": "Main",
+      "DisplayName": "Options",
+      "Elements": [
+        {
+            "Name": "IncludeDir0",
+            "DisplayName": "Input Method",
+            "Description": [
+                "Choose between PlayStation 5 and Xbox One input methods."
+            ],
+            "Type": "Input",
+            "MinValue": null,
+            "MaxValue": null,
+            "DefaultValue": "./Main/"
+        }
+      ]
+    }
+  ],
+    "Enums": {
+        "Input": [
+            {
+                "DisplayName": "PlayStation 5",
+                "Value": "./Main/PS5/"
+            },
+            {
+                "DisplayName": "Xbox One",
+                "Value": "./Main/Xbox One/"
+            }
+        ]
+    },
+
+  "IniFile": "mod.ini"
+}

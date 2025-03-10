@@ -1,7 +1,7 @@
-## Ps5 and Xbox One buttons 1.1
+## SU Ps5 & Xbox one Buttons 1.1
 
-Forgot to edit the languages loading.arl file for xbox one buttons, and the credits for starlightdx
+- Forgot to edit the languages loading.arl file for xbox one buttons, and the credits for starlightdx
 
-## Ps5 and Xbox One buttons 1.0
+## SU Ps5 & Xbox one Buttons 1.0
 
-Changed everything by adding ps5 and xbox one buttons to the game with changeable settings!
+- Changed everything by adding ps5 and xbox one buttons to the game with changeable settings!

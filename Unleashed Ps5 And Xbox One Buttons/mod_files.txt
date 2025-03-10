@@ -1,0 +1,4 @@
+/Main/Xbox One/Japanese/+loading.ar.00
+/Main/Xbox One/Japanese/+loading.arl
+/Main/Xbox One/english/+loading.ar.00
+/Main/Xbox One/english/+loading.arl

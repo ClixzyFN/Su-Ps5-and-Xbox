@@ -3,4 +3,3 @@ add Main/Xbox One/Japanese/+loading.arl
 add Main/Xbox One/english/+loading.ar.00
 add Main/Xbox One/english/+loading.arl
 add mod.ini
-add mod.json

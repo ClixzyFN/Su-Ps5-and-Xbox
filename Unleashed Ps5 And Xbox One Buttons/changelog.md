@@ -1,3 +1,9 @@
+## SU Ps5 & Xbox one Buttons 1.2.0
+
+- Updated almost all the assets and remade them 
+- Added hints and Remade loading screens for xbox one so it'll be better
+- Remade almost all the Ps5 Textures so it will fit the theme of the original loading screen
+
 ## SU Ps5 & Xbox one Buttons 1.1.1
 
 - Added Update server so you can update it through Hmm

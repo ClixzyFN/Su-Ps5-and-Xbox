@@ -1,122 +1,244 @@
-replace Main/PS5/+Application.ar.00
-‎replace Main/PS5/+Application.arl
-‎replace Main/PS5/+Loading.ar.00
-‎replace Main/PS5/+Loading.arl
-‎replace Main/PS5/+SonicActionCommonGeneral.ar.00
-‎replace Main/PS5/+SonicActionCommonGeneral.arl
-‎replace Main/PS5/+SonicActionCommon_EggmanLand.ar.00
-‎replace Main/PS5/+SonicActionCommon_EggmanLand.ar.01
-‎replace Main/PS5/+SonicActionCommon_EggmanLand.arl
-‎replace Main/PS5/+SystemCommonCore.ar.00
-‎replace Main/PS5/+SystemCommonCore.arl
-replace Main/PS5/Loading/mat_loadinfo_bg_ex_1_360.dds
-‎replace Main/PS5/Loading/mat_loadinfo_bg_ex_1_ps3.dds
-‎replace Main/PS5/Loading/mat_loadinfo_bg_ex_2_360.dds
-‎replace Main/PS5/Loading/mat_loadinfo_bg_ex_2_ps3.dds
-‎replace Main/PS5/Loading/mat_loadinfo_robo_1.dds
-‎replace Main/PS5/Loading/mat_loadinfo_robo_2.dds
-replace Main/PS5/Loading/mat_loadinfo_robo_3.dds
-replace Main/PS5/Loading/mat_loadinfo_werehog_1.dds
-‎replace Main/PS5/Loading/mat_loadinfo_werehog_2.dds
-‎replace Main/PS5/Loading/mat_loadinfo_werehog_3.dds
-‎replace Main/PS5/Loading/mat_loadinfo_werehog_4.dds
-‎replace Main/PS5/Loading/mat_loadinfo_werehog_5.dds
-‎replace Main/PS5/Loading/mat_loadinfo_werehog_6.dds
-‎replace Main/PS5/Loading/mat_loadinfo_werehog_7.dds
-‎replace Main/PS5/Loading/mat_loadinfo_werehog_8.dds
-‎replace Main/PS5/Loading/mat_loadinfo_werehog_9.dds
-‎replace Main/PS5/Loading/mat_loadinfo_sonic_1.dds
-‎replace Main/PS5/Loading/mat_loadinfo_sonic_2.dds
-‎replace Main/PS5/Loading/mat_loadinfo_sonic_3.dds
-‎replace Main/PS5/Loading/mat_loadinfo_sonic_4.dds
-‎replace Main/PS5/Loading/mat_loadinfo_sonic_5.dds
-‎replace Main/PS5/Loading/mat_loadinfo_sonic_6.dds
-‎replace Main/PS5/Loading/mat_loadinfo_sonic_7.dds
-‎replace Main/PS5/Loading/mat_loadinfo_supersonic.dds
-replace Main/PS5/Hint/Camera_001D.dds
-‎replace Main/PS5/Hint/CoolEdge_ACT1_001D.dds
-‎replace Main/PS5/Hint/CrayCastle_ACT1_001D.dds
-‎replace Main/PS5/Hint/CrayCastle_ACT1_001N.dds
-‎replace Main/PS5/Hint/CrayCastle_ACT1_003N.dds
-‎replace Main/PS5/Hint/DragonRoad_ACT1_001D.dds
-‎replace Main/PS5/Hint/HotDessert_ACT1_001D.dds
-‎replace Main/PS5/Hint/OrangeRoofs_ACT1_001D.dds
-‎replace Main/PS5/Hint/WhiteIsland_ACT1_002N.dds
-‎replace Main/PS5/Hint/WhiteIsland_ACT1_007N.dds
-‎replace Main/PS5/Hint/WhiteIsland_ACT1_008D.dds
-‎replace Main/PS5/Hint/WhiteIsland_ACT1_015D.dds
-‎replace Main/PS5/Hint/WhiteIsland_ACT1_020N.dds
-‎replace Main/PS5/Hint/WhiteIsland_ACT2_005D.dds
-‎replace Main/PS5/Hint/guard_001N.dds
-replace Main/Xbox One/+Application.ar.00
-‎replace Main/Xbox One/+Application.arl
-‎replace Main/Xbox One/+Loading.ar.00
-‎replace Main/Xbox One/+Loading.arl
-‎replace Main/Xbox One/+SonicActionCommonGeneral.ar.00
-‎replace Main/Xbox One/+SonicActionCommonGeneral.arl
-‎replace Main/Xbox One/+SonicActionCommon_EggmanLand.ar.00
-‎replace Main/Xbox One/+SonicActionCommon_EggmanLand.ar.01
-‎replace Main/Xbox One/+SonicActionCommon_EggmanLand.arl
-‎replace Main/Xbox One/+SystemCommonCore.ar.00
-‎replace Main/Xbox One/+SystemCommonCore.arl
-‎replace Main/Xbox One/Languages/English/+Loading.ar.00
-‎replace Main/Xbox One/Languages/English/+Loading.arl
-‎replace Main/Xbox One/Languages/Japanese/+Loading.ar.00
-‎replace Main/Xbox One/Languages/Japanese/+Loading.arl
-replace Main/Xbox One/Loading/mat_loadinfo_bg_af_d.dds
-‎replace Main/Xbox One/Loading/mat_loadinfo_bg_af_n.dds
-‎replace Main/Xbox One/Loading/mat_loadinfo_bg_be_d.dds
-‎replace Main/Xbox One/Loading/mat_loadinfo_bg_be_n.dds
-‎replace Main/Xbox One/Loading/mat_loadinfo_bg_ch_d.dds
-‎replace Main/Xbox One/Loading/mat_loadinfo_bg_ch_n.dds
-‎replace Main/Xbox One/Loading/mat_loadinfo_bg_eg.dds
-‎replace Main/Xbox One/Loading/mat_loadinfo_bg_eu_d.dds
-‎replace Main/Xbox One/Loading/mat_loadinfo_bg_eu_n.dds
-‎replace Main/Xbox One/Loading/mat_loadinfo_bg_ex_2_360.dds
-‎replace Main/Xbox One/Loading/mat_loadinfo_bg_lb.dds
-‎replace Main/Xbox One/Loading/mat_loadinfo_bg_my_d.dds
-‎replace Main/Xbox One/Loading/mat_loadinfo_bg_my_n.dds
-‎replace Main/Xbox One/Loading/mat_loadinfo_bg_ny_d.dds
-‎replace Main/Xbox One/Loading/mat_loadinfo_bg_ny_n.dds
-‎replace Main/Xbox One/Loading/mat_loadinfo_bg_pe_d.dds
-‎replace Main/Xbox One/Loading/mat_loadinfo_bg_pe_n.dds
-‎replace Main/Xbox One/Loading/mat_loadinfo_bg_sn_d.dds
-‎replace Main/Xbox One/Loading/mat_loadinfo_bg_sn_n.dds
-replace Main/Xbox One/Loading/mat_loadinfo_bg_ex_1_360.dds
-‎replace Main/Xbox One/Loading/mat_loadinfo_robo_1.dds
-‎replace Main/Xbox One/Loading/mat_loadinfo_robo_2.dds
-‎replace Main/Xbox One/Loading/mat_loadinfo_robo_3.dds
-‎replace Main/Xbox One/Loading/mat_loadinfo_sonic_1.dds
-‎replace Main/Xbox One/Loading/mat_loadinfo_sonic_2.dds
-‎replace Main/Xbox One/Loading/mat_loadinfo_sonic_3.dds
-‎replace Main/Xbox One/Loading/mat_loadinfo_sonic_4.dds
-‎replace Main/Xbox One/Loading/mat_loadinfo_sonic_5.dds
-‎replace Main/Xbox One/Loading/mat_loadinfo_sonic_6.dds
-‎replace Main/Xbox One/Loading/mat_loadinfo_sonic_7.dds
-‎replace Main/Xbox One/Loading/mat_loadinfo_supersonic.dds
-‎replace Main/Xbox One/Loading/mat_loadinfo_werehog_1.dds
-‎replace Main/Xbox One/Loading/mat_loadinfo_werehog_2.dds
-‎replace Main/Xbox One/Loading/mat_loadinfo_werehog_3.dds
-‎replace Main/Xbox One/Loading/mat_loadinfo_werehog_4.dds
-‎replace Main/Xbox One/Loading/mat_loadinfo_werehog_5.dds
-‎replace Main/Xbox One/Loading/mat_loadinfo_werehog_6.dds
-‎replace Main/Xbox One/Loading/mat_loadinfo_werehog_7.dds
-‎replace Main/Xbox One/Loading/mat_loadinfo_werehog_8.dds
-‎replace Main/Xbox One/Loading/mat_loadinfo_werehog_9.dds
-replace Main/Xbox One/Hint/Camera_001D.dds
-‎replace Main/Xbox One/Hint/CoolEdge_ACT1_001D.dds
-‎replace Main/Xbox One/Hint/CrayCastle_ACT1_001D.dds
-‎replace Main/Xbox One/Hint/CrayCastle_ACT1_001N.dds
-‎replace Main/Xbox One/Hint/CrayCastle_ACT1_003N.dds
-‎replace Main/Xbox One/Hint/DragonRoad_ACT1_001D.dds
-‎replace Main/Xbox One/Hint/HotDessert_ACT1_001D.dds
-‎replace Main/Xbox One/Hint/OrangeRoofs_ACT1_001D.dds
-‎replace Main/Xbox One/Hint/WhiteIsland_ACT1_002N.dds
-‎replace Main/Xbox One/Hint/WhiteIsland_ACT1_007N.dds
-‎replace Main/Xbox One/Hint/WhiteIsland_ACT1_008D.dds
-‎replace Main/Xbox One/Hint/WhiteIsland_ACT1_015D.dds
-‎replace Main/Xbox One/Hint/WhiteIsland_ACT1_020N.dds
-‎replace Main/Xbox One/Hint/WhiteIsland_ACT2_005D.dds
-‎replace Main/Xbox One/Hint/guard_001N.dds
-replace mod.ini
-replace mod.json
+delete Main/PS5/+Application.ar.00
+‎delete Main/PS5/+Application.arl
+‎delete Main/PS5/+Loading.ar.00
+‎delete Main/PS5/+Loading.arl
+‎delete Main/PS5/+SonicActionCommonGeneral.ar.00
+‎delete Main/PS5/+SonicActionCommonGeneral.arl
+‎delete Main/PS5/+SonicActionCommon_EggmanLand.ar.00
+‎delete Main/PS5/+SonicActionCommon_EggmanLand.ar.01
+‎delete Main/PS5/+SonicActionCommon_EggmanLand.arl
+‎delete Main/PS5/+SystemCommonCore.ar.00
+‎delete Main/PS5/+SystemCommonCore.arl
+delete Main/PS5/Loading/mat_loadinfo_bg_ex_1_360.dds
+‎delete Main/PS5/Loading/mat_loadinfo_bg_ex_1_ps3.dds
+‎delete Main/PS5/Loading/mat_loadinfo_bg_ex_2_360.dds
+‎delete Main/PS5/Loading/mat_loadinfo_bg_ex_2_ps3.dds
+‎delete Main/PS5/Loading/mat_loadinfo_robo_1.dds
+‎delete Main/PS5/Loading/mat_loadinfo_robo_2.dds
+delete Main/PS5/Loading/mat_loadinfo_robo_3.dds
+delete Main/PS5/Loading/mat_loadinfo_werehog_1.dds
+‎delete Main/PS5/Loading/mat_loadinfo_werehog_2.dds
+‎delete Main/PS5/Loading/mat_loadinfo_werehog_3.dds
+‎delete Main/PS5/Loading/mat_loadinfo_werehog_4.dds
+‎delete Main/PS5/Loading/mat_loadinfo_werehog_5.dds
+‎delete Main/PS5/Loading/mat_loadinfo_werehog_6.dds
+‎delete Main/PS5/Loading/mat_loadinfo_werehog_7.dds
+‎delete Main/PS5/Loading/mat_loadinfo_werehog_8.dds
+‎delete Main/PS5/Loading/mat_loadinfo_werehog_9.dds
+‎delete Main/PS5/Loading/mat_loadinfo_sonic_1.dds
+‎delete Main/PS5/Loading/mat_loadinfo_sonic_2.dds
+‎delete Main/PS5/Loading/mat_loadinfo_sonic_3.dds
+‎delete Main/PS5/Loading/mat_loadinfo_sonic_4.dds
+‎delete Main/PS5/Loading/mat_loadinfo_sonic_5.dds
+‎delete Main/PS5/Loading/mat_loadinfo_sonic_6.dds
+‎delete Main/PS5/Loading/mat_loadinfo_sonic_7.dds
+‎delete Main/PS5/Loading/mat_loadinfo_supersonic.dds
+delete Main/PS5/Hint/Camera_001D.dds
+‎delete Main/PS5/Hint/CoolEdge_ACT1_001D.dds
+‎delete Main/PS5/Hint/CrayCastle_ACT1_001D.dds
+‎delete Main/PS5/Hint/CrayCastle_ACT1_001N.dds
+‎delete Main/PS5/Hint/CrayCastle_ACT1_003N.dds
+‎delete Main/PS5/Hint/DragonRoad_ACT1_001D.dds
+‎delete Main/PS5/Hint/HotDessert_ACT1_001D.dds
+‎delete Main/PS5/Hint/OrangeRoofs_ACT1_001D.dds
+‎delete Main/PS5/Hint/WhiteIsland_ACT1_002N.dds
+‎delete Main/PS5/Hint/WhiteIsland_ACT1_007N.dds
+‎delete Main/PS5/Hint/WhiteIsland_ACT1_008D.dds
+‎delete Main/PS5/Hint/WhiteIsland_ACT1_015D.dds
+‎delete Main/PS5/Hint/WhiteIsland_ACT1_020N.dds
+‎delete Main/PS5/Hint/WhiteIsland_ACT2_005D.dds
+‎delete Main/PS5/Hint/guard_001N.dds
+delete Main/Xbox One/+Application.ar.00
+‎delete Main/Xbox One/+Application.arl
+‎delete Main/Xbox One/+Loading.ar.00
+‎delete Main/Xbox One/+Loading.arl
+‎delete Main/Xbox One/+SonicActionCommonGeneral.ar.00
+‎delete Main/Xbox One/+SonicActionCommonGeneral.arl
+‎delete Main/Xbox One/+SonicActionCommon_EggmanLand.ar.00
+‎delete Main/Xbox One/+SonicActionCommon_EggmanLand.ar.01
+‎delete Main/Xbox One/+SonicActionCommon_EggmanLand.arl
+‎delete Main/Xbox One/+SystemCommonCore.ar.00
+‎delete Main/Xbox One/+SystemCommonCore.arl
+‎delete Main/Xbox One/Languages/English/+Loading.ar.00
+‎delete Main/Xbox One/Languages/English/+Loading.arl
+‎delete Main/Xbox One/Languages/Japanese/+Loading.ar.00
+‎delete Main/Xbox One/Languages/Japanese/+Loading.arl
+delete Main/Xbox One/Loading/mat_loadinfo_bg_af_d.dds
+‎delete Main/Xbox One/Loading/mat_loadinfo_bg_af_n.dds
+‎delete Main/Xbox One/Loading/mat_loadinfo_bg_be_d.dds
+‎delete Main/Xbox One/Loading/mat_loadinfo_bg_be_n.dds
+‎delete Main/Xbox One/Loading/mat_loadinfo_bg_ch_d.dds
+‎delete Main/Xbox One/Loading/mat_loadinfo_bg_ch_n.dds
+‎delete Main/Xbox One/Loading/mat_loadinfo_bg_eg.dds
+‎delete Main/Xbox One/Loading/mat_loadinfo_bg_eu_d.dds
+‎delete Main/Xbox One/Loading/mat_loadinfo_bg_eu_n.dds
+‎delete Main/Xbox One/Loading/mat_loadinfo_bg_ex_2_360.dds
+‎delete Main/Xbox One/Loading/mat_loadinfo_bg_lb.dds
+‎delete Main/Xbox One/Loading/mat_loadinfo_bg_my_d.dds
+‎delete Main/Xbox One/Loading/mat_loadinfo_bg_my_n.dds
+‎delete Main/Xbox One/Loading/mat_loadinfo_bg_ny_d.dds
+‎delete Main/Xbox One/Loading/mat_loadinfo_bg_ny_n.dds
+‎delete Main/Xbox One/Loading/mat_loadinfo_bg_pe_d.dds
+‎delete Main/Xbox One/Loading/mat_loadinfo_bg_pe_n.dds
+‎delete Main/Xbox One/Loading/mat_loadinfo_bg_sn_d.dds
+‎delete Main/Xbox One/Loading/mat_loadinfo_bg_sn_n.dds
+delete Main/Xbox One/Loading/mat_loadinfo_bg_ex_1_360.dds
+‎delete Main/Xbox One/Loading/mat_loadinfo_robo_1.dds
+‎delete Main/Xbox One/Loading/mat_loadinfo_robo_2.dds
+‎delete Main/Xbox One/Loading/mat_loadinfo_robo_3.dds
+‎delete Main/Xbox One/Loading/mat_loadinfo_sonic_1.dds
+‎delete Main/Xbox One/Loading/mat_loadinfo_sonic_2.dds
+‎delete Main/Xbox One/Loading/mat_loadinfo_sonic_3.dds
+‎delete Main/Xbox One/Loading/mat_loadinfo_sonic_4.dds
+‎delete Main/Xbox One/Loading/mat_loadinfo_sonic_5.dds
+‎delete Main/Xbox One/Loading/mat_loadinfo_sonic_6.dds
+‎delete Main/Xbox One/Loading/mat_loadinfo_sonic_7.dds
+‎delete Main/Xbox One/Loading/mat_loadinfo_supersonic.dds
+‎delete Main/Xbox One/Loading/mat_loadinfo_werehog_1.dds
+‎delete Main/Xbox One/Loading/mat_loadinfo_werehog_2.dds
+‎delete Main/Xbox One/Loading/mat_loadinfo_werehog_3.dds
+‎delete Main/Xbox One/Loading/mat_loadinfo_werehog_4.dds
+‎delete Main/Xbox One/Loading/mat_loadinfo_werehog_5.dds
+‎delete Main/Xbox One/Loading/mat_loadinfo_werehog_6.dds
+‎delete Main/Xbox One/Loading/mat_loadinfo_werehog_7.dds
+‎delete Main/Xbox One/Loading/mat_loadinfo_werehog_8.dds
+‎delete Main/Xbox One/Loading/mat_loadinfo_werehog_9.dds
+delete Main/Xbox One/Hint/Camera_001D.dds
+‎delete Main/Xbox One/Hint/CoolEdge_ACT1_001D.dds
+‎delete Main/Xbox One/Hint/CrayCastle_ACT1_001D.dds
+‎delete Main/Xbox One/Hint/CrayCastle_ACT1_001N.dds
+‎delete Main/Xbox One/Hint/CrayCastle_ACT1_003N.dds
+‎delete Main/Xbox One/Hint/DragonRoad_ACT1_001D.dds
+‎delete Main/Xbox One/Hint/HotDessert_ACT1_001D.dds
+‎delete Main/Xbox One/Hint/OrangeRoofs_ACT1_001D.dds
+‎delete Main/Xbox One/Hint/WhiteIsland_ACT1_002N.dds
+‎delete Main/Xbox One/Hint/WhiteIsland_ACT1_007N.dds
+‎delete Main/Xbox One/Hint/WhiteIsland_ACT1_008D.dds
+‎delete Main/Xbox One/Hint/WhiteIsland_ACT1_015D.dds
+‎delete Main/Xbox One/Hint/WhiteIsland_ACT1_020N.dds
+‎delete Main/Xbox One/Hint/WhiteIsland_ACT2_005D.dds
+‎delete Main/Xbox One/Hint/guard_001N.dds
+delete mod.ini
+delete mod.json
+add Main/PS5/+Application.ar.00
+‎add Main/PS5/+Application.arl
+‎add Main/PS5/+Loading.ar.00
+‎add Main/PS5/+Loading.arl
+‎add Main/PS5/+SonicActionCommonGeneral.ar.00
+‎add Main/PS5/+SonicActionCommonGeneral.arl
+‎add Main/PS5/+SonicActionCommon_EggmanLand.ar.00
+‎add Main/PS5/+SonicActionCommon_EggmanLand.ar.01
+‎add Main/PS5/+SonicActionCommon_EggmanLand.arl
+‎add Main/PS5/+SystemCommonCore.ar.00
+‎add Main/PS5/+SystemCommonCore.arl
+add Main/PS5/Loading/mat_loadinfo_bg_ex_1_360.dds
+‎add Main/PS5/Loading/mat_loadinfo_bg_ex_1_ps3.dds
+‎add Main/PS5/Loading/mat_loadinfo_bg_ex_2_360.dds
+‎add Main/PS5/Loading/mat_loadinfo_bg_ex_2_ps3.dds
+‎add Main/PS5/Loading/mat_loadinfo_robo_1.dds
+‎add Main/PS5/Loading/mat_loadinfo_robo_2.dds
+add Main/PS5/Loading/mat_loadinfo_robo_3.dds
+add Main/PS5/Loading/mat_loadinfo_werehog_1.dds
+‎add Main/PS5/Loading/mat_loadinfo_werehog_2.dds
+‎add Main/PS5/Loading/mat_loadinfo_werehog_3.dds
+‎add Main/PS5/Loading/mat_loadinfo_werehog_4.dds
+‎add Main/PS5/Loading/mat_loadinfo_werehog_5.dds
+‎add Main/PS5/Loading/mat_loadinfo_werehog_6.dds
+‎add Main/PS5/Loading/mat_loadinfo_werehog_7.dds
+‎add Main/PS5/Loading/mat_loadinfo_werehog_8.dds
+‎add Main/PS5/Loading/mat_loadinfo_werehog_9.dds
+‎add Main/PS5/Loading/mat_loadinfo_sonic_1.dds
+‎add Main/PS5/Loading/mat_loadinfo_sonic_2.dds
+‎add Main/PS5/Loading/mat_loadinfo_sonic_3.dds
+‎add Main/PS5/Loading/mat_loadinfo_sonic_4.dds
+‎add Main/PS5/Loading/mat_loadinfo_sonic_5.dds
+‎add Main/PS5/Loading/mat_loadinfo_sonic_6.dds
+‎add Main/PS5/Loading/mat_loadinfo_sonic_7.dds
+‎add Main/PS5/Loading/mat_loadinfo_supersonic.dds
+add Main/PS5/Hint/Camera_001D.dds
+‎add Main/PS5/Hint/CoolEdge_ACT1_001D.dds
+‎add Main/PS5/Hint/CrayCastle_ACT1_001D.dds
+‎add Main/PS5/Hint/CrayCastle_ACT1_001N.dds
+‎add Main/PS5/Hint/CrayCastle_ACT1_003N.dds
+‎add Main/PS5/Hint/DragonRoad_ACT1_001D.dds
+‎add Main/PS5/Hint/HotDessert_ACT1_001D.dds
+‎add Main/PS5/Hint/OrangeRoofs_ACT1_001D.dds
+‎add Main/PS5/Hint/WhiteIsland_ACT1_002N.dds
+‎add Main/PS5/Hint/WhiteIsland_ACT1_007N.dds
+‎add Main/PS5/Hint/WhiteIsland_ACT1_008D.dds
+‎add Main/PS5/Hint/WhiteIsland_ACT1_015D.dds
+‎add Main/PS5/Hint/WhiteIsland_ACT1_020N.dds
+‎add Main/PS5/Hint/WhiteIsland_ACT2_005D.dds
+‎add Main/PS5/Hint/guard_001N.dds
+add Main/Xbox One/+Application.ar.00
+‎add Main/Xbox One/+Application.arl
+‎add Main/Xbox One/+Loading.ar.00
+‎add Main/Xbox One/+Loading.arl
+‎add Main/Xbox One/+SonicActionCommonGeneral.ar.00
+‎add Main/Xbox One/+SonicActionCommonGeneral.arl
+‎add Main/Xbox One/+SonicActionCommon_EggmanLand.ar.00
+‎add Main/Xbox One/+SonicActionCommon_EggmanLand.ar.01
+‎add Main/Xbox One/+SonicActionCommon_EggmanLand.arl
+‎add Main/Xbox One/+SystemCommonCore.ar.00
+‎add Main/Xbox One/+SystemCommonCore.arl
+‎add Main/Xbox One/Languages/English/+Loading.ar.00
+‎add Main/Xbox One/Languages/English/+Loading.arl
+‎add Main/Xbox One/Languages/Japanese/+Loading.ar.00
+‎add Main/Xbox One/Languages/Japanese/+Loading.arl
+add Main/Xbox One/Loading/mat_loadinfo_bg_af_d.dds
+‎add Main/Xbox One/Loading/mat_loadinfo_bg_af_n.dds
+‎add Main/Xbox One/Loading/mat_loadinfo_bg_be_d.dds
+‎add Main/Xbox One/Loading/mat_loadinfo_bg_be_n.dds
+‎add Main/Xbox One/Loading/mat_loadinfo_bg_ch_d.dds
+‎add Main/Xbox One/Loading/mat_loadinfo_bg_ch_n.dds
+‎add Main/Xbox One/Loading/mat_loadinfo_bg_eg.dds
+‎add Main/Xbox One/Loading/mat_loadinfo_bg_eu_d.dds
+‎add Main/Xbox One/Loading/mat_loadinfo_bg_eu_n.dds
+‎add Main/Xbox One/Loading/mat_loadinfo_bg_ex_2_360.dds
+‎add Main/Xbox One/Loading/mat_loadinfo_bg_lb.dds
+‎add Main/Xbox One/Loading/mat_loadinfo_bg_my_d.dds
+‎add Main/Xbox One/Loading/mat_loadinfo_bg_my_n.dds
+‎add Main/Xbox One/Loading/mat_loadinfo_bg_ny_d.dds
+‎add Main/Xbox One/Loading/mat_loadinfo_bg_ny_n.dds
+‎add Main/Xbox One/Loading/mat_loadinfo_bg_pe_d.dds
+‎add Main/Xbox One/Loading/mat_loadinfo_bg_pe_n.dds
+‎add Main/Xbox One/Loading/mat_loadinfo_bg_sn_d.dds
+‎add Main/Xbox One/Loading/mat_loadinfo_bg_sn_n.dds
+add Main/Xbox One/Loading/mat_loadinfo_bg_ex_1_360.dds
+‎add Main/Xbox One/Loading/mat_loadinfo_robo_1.dds
+‎add Main/Xbox One/Loading/mat_loadinfo_robo_2.dds
+‎add Main/Xbox One/Loading/mat_loadinfo_robo_3.dds
+‎add Main/Xbox One/Loading/mat_loadinfo_sonic_1.dds
+‎add Main/Xbox One/Loading/mat_loadinfo_sonic_2.dds
+‎add Main/Xbox One/Loading/mat_loadinfo_sonic_3.dds
+‎add Main/Xbox One/Loading/mat_loadinfo_sonic_4.dds
+‎add Main/Xbox One/Loading/mat_loadinfo_sonic_5.dds
+‎add Main/Xbox One/Loading/mat_loadinfo_sonic_6.dds
+‎add Main/Xbox One/Loading/mat_loadinfo_sonic_7.dds
+‎add Main/Xbox One/Loading/mat_loadinfo_supersonic.dds
+‎add Main/Xbox One/Loading/mat_loadinfo_werehog_1.dds
+‎add Main/Xbox One/Loading/mat_loadinfo_werehog_2.dds
+‎add Main/Xbox One/Loading/mat_loadinfo_werehog_3.dds
+‎add Main/Xbox One/Loading/mat_loadinfo_werehog_4.dds
+‎add Main/Xbox One/Loading/mat_loadinfo_werehog_5.dds
+‎add Main/Xbox One/Loading/mat_loadinfo_werehog_6.dds
+‎add Main/Xbox One/Loading/mat_loadinfo_werehog_7.dds
+‎add Main/Xbox One/Loading/mat_loadinfo_werehog_8.dds
+‎add Main/Xbox One/Loading/mat_loadinfo_werehog_9.dds
+add Main/Xbox One/Hint/Camera_001D.dds
+‎add Main/Xbox One/Hint/CoolEdge_ACT1_001D.dds
+‎add Main/Xbox One/Hint/CrayCastle_ACT1_001D.dds
+‎add Main/Xbox One/Hint/CrayCastle_ACT1_001N.dds
+‎add Main/Xbox One/Hint/CrayCastle_ACT1_003N.dds
+‎add Main/Xbox One/Hint/DragonRoad_ACT1_001D.dds
+‎add Main/Xbox One/Hint/HotDessert_ACT1_001D.dds
+‎add Main/Xbox One/Hint/OrangeRoofs_ACT1_001D.dds
+‎add Main/Xbox One/Hint/WhiteIsland_ACT1_002N.dds
+‎add Main/Xbox One/Hint/WhiteIsland_ACT1_007N.dds
+‎add Main/Xbox One/Hint/WhiteIsland_ACT1_008D.dds
+‎add Main/Xbox One/Hint/WhiteIsland_ACT1_015D.dds
+‎add Main/Xbox One/Hint/WhiteIsland_ACT1_020N.dds
+‎add Main/Xbox One/Hint/WhiteIsland_ACT2_005D.dds
+‎add Main/Xbox One/Hint/guard_001N.dds
+add mod.ini
+add mod.json
